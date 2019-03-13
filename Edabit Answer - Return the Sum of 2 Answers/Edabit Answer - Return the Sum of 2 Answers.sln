@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Edabit Answer - Return the Sum of 2 Answers", "Edabit Answer - Return the Sum of 2 Answers\Edabit Answer - Return the Sum of 2 Answers.csproj", "{076BA654-410C-475E-9B86-868C2517682D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{076BA654-410C-475E-9B86-868C2517682D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{076BA654-410C-475E-9B86-868C2517682D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{076BA654-410C-475E-9B86-868C2517682D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{076BA654-410C-475E-9B86-868C2517682D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E16EEA3-60CE-4794-98C7-3E2DE8B9B76F}
+	EndGlobalSection
+EndGlobal

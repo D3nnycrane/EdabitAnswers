@@ -1,0 +1,11 @@
+C:\Users\Mark\source\repos\Edabit Answer - Return the Sum of 2 Answers\Edabit Answer - Return the Sum of 2 Answers\bin\Debug\netcoreapp2.1\Edabit Answer - Return the Sum of 2 Answers.deps.json
+C:\Users\Mark\source\repos\Edabit Answer - Return the Sum of 2 Answers\Edabit Answer - Return the Sum of 2 Answers\bin\Debug\netcoreapp2.1\Edabit Answer - Return the Sum of 2 Answers.runtimeconfig.json
+C:\Users\Mark\source\repos\Edabit Answer - Return the Sum of 2 Answers\Edabit Answer - Return the Sum of 2 Answers\bin\Debug\netcoreapp2.1\Edabit Answer - Return the Sum of 2 Answers.runtimeconfig.dev.json
+C:\Users\Mark\source\repos\Edabit Answer - Return the Sum of 2 Answers\Edabit Answer - Return the Sum of 2 Answers\bin\Debug\netcoreapp2.1\Edabit Answer - Return the Sum of 2 Answers.dll
+C:\Users\Mark\source\repos\Edabit Answer - Return the Sum of 2 Answers\Edabit Answer - Return the Sum of 2 Answers\bin\Debug\netcoreapp2.1\Edabit Answer - Return the Sum of 2 Answers.pdb
+C:\Users\Mark\source\repos\Edabit Answer - Return the Sum of 2 Answers\Edabit Answer - Return the Sum of 2 Answers\obj\Debug\netcoreapp2.1\Edabit Answer - Return the Sum of 2 Answers.csprojAssemblyReference.cache
+C:\Users\Mark\source\repos\Edabit Answer - Return the Sum of 2 Answers\Edabit Answer - Return the Sum of 2 Answers\obj\Debug\netcoreapp2.1\Edabit Answer - Return the Sum of 2 Answers.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\Edabit Answer - Return the Sum of 2 Answers\Edabit Answer - Return the Sum of 2 Answers\obj\Debug\netcoreapp2.1\Edabit Answer - Return the Sum of 2 Answers.AssemblyInfoInputs.cache
+C:\Users\Mark\source\repos\Edabit Answer - Return the Sum of 2 Answers\Edabit Answer - Return the Sum of 2 Answers\obj\Debug\netcoreapp2.1\Edabit Answer - Return the Sum of 2 Answers.AssemblyInfo.cs
+C:\Users\Mark\source\repos\Edabit Answer - Return the Sum of 2 Answers\Edabit Answer - Return the Sum of 2 Answers\obj\Debug\netcoreapp2.1\Edabit Answer - Return the Sum of 2 Answers.dll
+C:\Users\Mark\source\repos\Edabit Answer - Return the Sum of 2 Answers\Edabit Answer - Return the Sum of 2 Answers\obj\Debug\netcoreapp2.1\Edabit Answer - Return the Sum of 2 Answers.pdb
