@@ -1,0 +1,11 @@
+C:\Users\Mark\source\repos\Edabit Answer - Milk and Cookies\Edabit Answer - Milk and Cookies\bin\Debug\netcoreapp2.1\Edabit Answer - Milk and Cookies.deps.json
+C:\Users\Mark\source\repos\Edabit Answer - Milk and Cookies\Edabit Answer - Milk and Cookies\bin\Debug\netcoreapp2.1\Edabit Answer - Milk and Cookies.runtimeconfig.json
+C:\Users\Mark\source\repos\Edabit Answer - Milk and Cookies\Edabit Answer - Milk and Cookies\bin\Debug\netcoreapp2.1\Edabit Answer - Milk and Cookies.runtimeconfig.dev.json
+C:\Users\Mark\source\repos\Edabit Answer - Milk and Cookies\Edabit Answer - Milk and Cookies\bin\Debug\netcoreapp2.1\Edabit Answer - Milk and Cookies.dll
+C:\Users\Mark\source\repos\Edabit Answer - Milk and Cookies\Edabit Answer - Milk and Cookies\bin\Debug\netcoreapp2.1\Edabit Answer - Milk and Cookies.pdb
+C:\Users\Mark\source\repos\Edabit Answer - Milk and Cookies\Edabit Answer - Milk and Cookies\obj\Debug\netcoreapp2.1\Edabit Answer - Milk and Cookies.csprojAssemblyReference.cache
+C:\Users\Mark\source\repos\Edabit Answer - Milk and Cookies\Edabit Answer - Milk and Cookies\obj\Debug\netcoreapp2.1\Edabit Answer - Milk and Cookies.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\Edabit Answer - Milk and Cookies\Edabit Answer - Milk and Cookies\obj\Debug\netcoreapp2.1\Edabit Answer - Milk and Cookies.AssemblyInfoInputs.cache
+C:\Users\Mark\source\repos\Edabit Answer - Milk and Cookies\Edabit Answer - Milk and Cookies\obj\Debug\netcoreapp2.1\Edabit Answer - Milk and Cookies.AssemblyInfo.cs
+C:\Users\Mark\source\repos\Edabit Answer - Milk and Cookies\Edabit Answer - Milk and Cookies\obj\Debug\netcoreapp2.1\Edabit Answer - Milk and Cookies.dll
+C:\Users\Mark\source\repos\Edabit Answer - Milk and Cookies\Edabit Answer - Milk and Cookies\obj\Debug\netcoreapp2.1\Edabit Answer - Milk and Cookies.pdb
