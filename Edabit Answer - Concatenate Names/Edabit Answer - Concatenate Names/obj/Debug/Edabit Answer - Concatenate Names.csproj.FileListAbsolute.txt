@@ -1,0 +1,7 @@
+C:\Users\Mark\source\repos\Edabit Answer - Concatenate Names\Edabit Answer - Concatenate Names\bin\Debug\Edabit Answer - Concatenate Names.exe.config
+C:\Users\Mark\source\repos\Edabit Answer - Concatenate Names\Edabit Answer - Concatenate Names\bin\Debug\Edabit Answer - Concatenate Names.exe
+C:\Users\Mark\source\repos\Edabit Answer - Concatenate Names\Edabit Answer - Concatenate Names\bin\Debug\Edabit Answer - Concatenate Names.pdb
+C:\Users\Mark\source\repos\Edabit Answer - Concatenate Names\Edabit Answer - Concatenate Names\obj\Debug\Edabit Answer - Concatenate Names.csprojAssemblyReference.cache
+C:\Users\Mark\source\repos\Edabit Answer - Concatenate Names\Edabit Answer - Concatenate Names\obj\Debug\Edabit Answer - Concatenate Names.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\Edabit Answer - Concatenate Names\Edabit Answer - Concatenate Names\obj\Debug\Edabit Answer - Concatenate Names.exe
+C:\Users\Mark\source\repos\Edabit Answer - Concatenate Names\Edabit Answer - Concatenate Names\obj\Debug\Edabit Answer - Concatenate Names.pdb
