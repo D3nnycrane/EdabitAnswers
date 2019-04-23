@@ -1,0 +1,7 @@
+C:\Users\Mark\source\repos\Edabit_ReturnPlusOne\Edabit_ReturnPlusOne\obj\Debug\Edabit_ReturnPlusOne.csprojAssemblyReference.cache
+C:\Users\Mark\source\repos\Edabit_ReturnPlusOne\Edabit_ReturnPlusOne\obj\Debug\Edabit_ReturnPlusOne.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\Edabit_ReturnPlusOne\Edabit_ReturnPlusOne\bin\Debug\Edabit_ReturnPlusOne.exe.config
+C:\Users\Mark\source\repos\Edabit_ReturnPlusOne\Edabit_ReturnPlusOne\bin\Debug\Edabit_ReturnPlusOne.exe
+C:\Users\Mark\source\repos\Edabit_ReturnPlusOne\Edabit_ReturnPlusOne\bin\Debug\Edabit_ReturnPlusOne.pdb
+C:\Users\Mark\source\repos\Edabit_ReturnPlusOne\Edabit_ReturnPlusOne\obj\Debug\Edabit_ReturnPlusOne.exe
+C:\Users\Mark\source\repos\Edabit_ReturnPlusOne\Edabit_ReturnPlusOne\obj\Debug\Edabit_ReturnPlusOne.pdb
