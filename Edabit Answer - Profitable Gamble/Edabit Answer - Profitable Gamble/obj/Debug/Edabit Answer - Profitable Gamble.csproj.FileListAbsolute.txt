@@ -1,0 +1,7 @@
+C:\Users\Mark\source\repos\Edabit Answer - Profitable Gamble\Edabit Answer - Profitable Gamble\bin\Debug\Edabit Answer - Profitable Gamble.exe.config
+C:\Users\Mark\source\repos\Edabit Answer - Profitable Gamble\Edabit Answer - Profitable Gamble\bin\Debug\Edabit Answer - Profitable Gamble.exe
+C:\Users\Mark\source\repos\Edabit Answer - Profitable Gamble\Edabit Answer - Profitable Gamble\bin\Debug\Edabit Answer - Profitable Gamble.pdb
+C:\Users\Mark\source\repos\Edabit Answer - Profitable Gamble\Edabit Answer - Profitable Gamble\obj\Debug\Edabit Answer - Profitable Gamble.csprojAssemblyReference.cache
+C:\Users\Mark\source\repos\Edabit Answer - Profitable Gamble\Edabit Answer - Profitable Gamble\obj\Debug\Edabit Answer - Profitable Gamble.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\Edabit Answer - Profitable Gamble\Edabit Answer - Profitable Gamble\obj\Debug\Edabit Answer - Profitable Gamble.exe
+C:\Users\Mark\source\repos\Edabit Answer - Profitable Gamble\Edabit Answer - Profitable Gamble\obj\Debug\Edabit Answer - Profitable Gamble.pdb
