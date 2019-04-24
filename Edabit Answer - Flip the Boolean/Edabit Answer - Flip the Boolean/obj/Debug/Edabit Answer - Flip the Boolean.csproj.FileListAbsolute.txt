@@ -1,0 +1,6 @@
+C:\Users\Mark\source\repos\Edabit Answer - Flip the Boolean\Edabit Answer - Flip the Boolean\bin\Debug\Edabit Answer - Flip the Boolean.exe.config
+C:\Users\Mark\source\repos\Edabit Answer - Flip the Boolean\Edabit Answer - Flip the Boolean\bin\Debug\Edabit Answer - Flip the Boolean.exe
+C:\Users\Mark\source\repos\Edabit Answer - Flip the Boolean\Edabit Answer - Flip the Boolean\bin\Debug\Edabit Answer - Flip the Boolean.pdb
+C:\Users\Mark\source\repos\Edabit Answer - Flip the Boolean\Edabit Answer - Flip the Boolean\obj\Debug\Edabit Answer - Flip the Boolean.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\Edabit Answer - Flip the Boolean\Edabit Answer - Flip the Boolean\obj\Debug\Edabit Answer - Flip the Boolean.exe
+C:\Users\Mark\source\repos\Edabit Answer - Flip the Boolean\Edabit Answer - Flip the Boolean\obj\Debug\Edabit Answer - Flip the Boolean.pdb
