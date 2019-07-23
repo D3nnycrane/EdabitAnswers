@@ -1,0 +1,7 @@
+C:\Users\Mark\source\repos\Edabit Answer - Check String for Spaces\Edabit Answer - Check String for Spaces\bin\Debug\Edabit Answer - Check String for Spaces.exe.config
+C:\Users\Mark\source\repos\Edabit Answer - Check String for Spaces\Edabit Answer - Check String for Spaces\bin\Debug\Edabit Answer - Check String for Spaces.exe
+C:\Users\Mark\source\repos\Edabit Answer - Check String for Spaces\Edabit Answer - Check String for Spaces\bin\Debug\Edabit Answer - Check String for Spaces.pdb
+C:\Users\Mark\source\repos\Edabit Answer - Check String for Spaces\Edabit Answer - Check String for Spaces\obj\Debug\Edabit Answer - Check String for Spaces.csprojAssemblyReference.cache
+C:\Users\Mark\source\repos\Edabit Answer - Check String for Spaces\Edabit Answer - Check String for Spaces\obj\Debug\Edabit Answer - Check String for Spaces.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\Edabit Answer - Check String for Spaces\Edabit Answer - Check String for Spaces\obj\Debug\Edabit Answer - Check String for Spaces.exe
+C:\Users\Mark\source\repos\Edabit Answer - Check String for Spaces\Edabit Answer - Check String for Spaces\obj\Debug\Edabit Answer - Check String for Spaces.pdb
