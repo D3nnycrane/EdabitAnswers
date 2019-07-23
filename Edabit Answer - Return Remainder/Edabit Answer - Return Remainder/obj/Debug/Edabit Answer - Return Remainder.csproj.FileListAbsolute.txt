@@ -1,0 +1,7 @@
+C:\Users\Mark\source\repos\Edabit Answer - Return Remainder\Edabit Answer - Return Remainder\bin\Debug\Edabit Answer - Return Remainder.exe.config
+C:\Users\Mark\source\repos\Edabit Answer - Return Remainder\Edabit Answer - Return Remainder\bin\Debug\Edabit Answer - Return Remainder.exe
+C:\Users\Mark\source\repos\Edabit Answer - Return Remainder\Edabit Answer - Return Remainder\bin\Debug\Edabit Answer - Return Remainder.pdb
+C:\Users\Mark\source\repos\Edabit Answer - Return Remainder\Edabit Answer - Return Remainder\obj\Debug\Edabit Answer - Return Remainder.csprojAssemblyReference.cache
+C:\Users\Mark\source\repos\Edabit Answer - Return Remainder\Edabit Answer - Return Remainder\obj\Debug\Edabit Answer - Return Remainder.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\Edabit Answer - Return Remainder\Edabit Answer - Return Remainder\obj\Debug\Edabit Answer - Return Remainder.exe
+C:\Users\Mark\source\repos\Edabit Answer - Return Remainder\Edabit Answer - Return Remainder\obj\Debug\Edabit Answer - Return Remainder.pdb
