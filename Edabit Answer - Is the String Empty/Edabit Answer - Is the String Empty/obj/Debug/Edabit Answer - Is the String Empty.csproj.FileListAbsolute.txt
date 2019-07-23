@@ -1,0 +1,6 @@
+C:\Users\Mark\source\repos\Edabit Answer - Is the String Empty\Edabit Answer - Is the String Empty\bin\Debug\Edabit Answer - Is the String Empty.exe.config
+C:\Users\Mark\source\repos\Edabit Answer - Is the String Empty\Edabit Answer - Is the String Empty\bin\Debug\Edabit Answer - Is the String Empty.exe
+C:\Users\Mark\source\repos\Edabit Answer - Is the String Empty\Edabit Answer - Is the String Empty\bin\Debug\Edabit Answer - Is the String Empty.pdb
+C:\Users\Mark\source\repos\Edabit Answer - Is the String Empty\Edabit Answer - Is the String Empty\obj\Debug\Edabit Answer - Is the String Empty.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\Edabit Answer - Is the String Empty\Edabit Answer - Is the String Empty\obj\Debug\Edabit Answer - Is the String Empty.exe
+C:\Users\Mark\source\repos\Edabit Answer - Is the String Empty\Edabit Answer - Is the String Empty\obj\Debug\Edabit Answer - Is the String Empty.pdb
