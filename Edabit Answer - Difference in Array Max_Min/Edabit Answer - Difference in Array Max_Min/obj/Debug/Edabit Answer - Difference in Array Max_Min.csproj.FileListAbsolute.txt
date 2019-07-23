@@ -1,0 +1,7 @@
+C:\Users\Mark\source\repos\Edabit Answer - Difference in Array Max_Min\Edabit Answer - Difference in Array Max_Min\bin\Debug\Edabit Answer - Difference in Array Max_Min.exe.config
+C:\Users\Mark\source\repos\Edabit Answer - Difference in Array Max_Min\Edabit Answer - Difference in Array Max_Min\bin\Debug\Edabit Answer - Difference in Array Max_Min.exe
+C:\Users\Mark\source\repos\Edabit Answer - Difference in Array Max_Min\Edabit Answer - Difference in Array Max_Min\bin\Debug\Edabit Answer - Difference in Array Max_Min.pdb
+C:\Users\Mark\source\repos\Edabit Answer - Difference in Array Max_Min\Edabit Answer - Difference in Array Max_Min\obj\Debug\Edabit Answer - Difference in Array Max_Min.csprojAssemblyReference.cache
+C:\Users\Mark\source\repos\Edabit Answer - Difference in Array Max_Min\Edabit Answer - Difference in Array Max_Min\obj\Debug\Edabit Answer - Difference in Array Max_Min.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\Edabit Answer - Difference in Array Max_Min\Edabit Answer - Difference in Array Max_Min\obj\Debug\Edabit Answer - Difference in Array Max_Min.exe
+C:\Users\Mark\source\repos\Edabit Answer - Difference in Array Max_Min\Edabit Answer - Difference in Array Max_Min\obj\Debug\Edabit Answer - Difference in Array Max_Min.pdb
