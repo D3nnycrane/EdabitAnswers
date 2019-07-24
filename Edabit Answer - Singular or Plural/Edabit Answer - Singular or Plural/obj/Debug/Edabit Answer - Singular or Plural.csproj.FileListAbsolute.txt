@@ -1,0 +1,7 @@
+C:\Users\Mark\source\repos\Edabit Answer - Singular or Plural\Edabit Answer - Singular or Plural\bin\Debug\Edabit Answer - Singular or Plural.exe.config
+C:\Users\Mark\source\repos\Edabit Answer - Singular or Plural\Edabit Answer - Singular or Plural\bin\Debug\Edabit Answer - Singular or Plural.exe
+C:\Users\Mark\source\repos\Edabit Answer - Singular or Plural\Edabit Answer - Singular or Plural\bin\Debug\Edabit Answer - Singular or Plural.pdb
+C:\Users\Mark\source\repos\Edabit Answer - Singular or Plural\Edabit Answer - Singular or Plural\obj\Debug\Edabit Answer - Singular or Plural.csprojAssemblyReference.cache
+C:\Users\Mark\source\repos\Edabit Answer - Singular or Plural\Edabit Answer - Singular or Plural\obj\Debug\Edabit Answer - Singular or Plural.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\Edabit Answer - Singular or Plural\Edabit Answer - Singular or Plural\obj\Debug\Edabit Answer - Singular or Plural.exe
+C:\Users\Mark\source\repos\Edabit Answer - Singular or Plural\Edabit Answer - Singular or Plural\obj\Debug\Edabit Answer - Singular or Plural.pdb
