@@ -1,0 +1,7 @@
+C:\Users\Mark\source\repos\Edabit Answer - Compare Strings\Edabit Answer - Compare Strings\bin\Debug\Edabit Answer - Compare Strings.exe.config
+C:\Users\Mark\source\repos\Edabit Answer - Compare Strings\Edabit Answer - Compare Strings\bin\Debug\Edabit Answer - Compare Strings.exe
+C:\Users\Mark\source\repos\Edabit Answer - Compare Strings\Edabit Answer - Compare Strings\bin\Debug\Edabit Answer - Compare Strings.pdb
+C:\Users\Mark\source\repos\Edabit Answer - Compare Strings\Edabit Answer - Compare Strings\obj\Debug\Edabit Answer - Compare Strings.csprojAssemblyReference.cache
+C:\Users\Mark\source\repos\Edabit Answer - Compare Strings\Edabit Answer - Compare Strings\obj\Debug\Edabit Answer - Compare Strings.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\Edabit Answer - Compare Strings\Edabit Answer - Compare Strings\obj\Debug\Edabit Answer - Compare Strings.exe
+C:\Users\Mark\source\repos\Edabit Answer - Compare Strings\Edabit Answer - Compare Strings\obj\Debug\Edabit Answer - Compare Strings.pdb
