@@ -1,0 +1,7 @@
+C:\Users\Mark\source\repos\Edabit Answer - Missing Third Angle\Edabit Answer - Missing Third Angle\bin\Debug\Edabit Answer - Missing Third Angle.exe.config
+C:\Users\Mark\source\repos\Edabit Answer - Missing Third Angle\Edabit Answer - Missing Third Angle\bin\Debug\Edabit Answer - Missing Third Angle.exe
+C:\Users\Mark\source\repos\Edabit Answer - Missing Third Angle\Edabit Answer - Missing Third Angle\bin\Debug\Edabit Answer - Missing Third Angle.pdb
+C:\Users\Mark\source\repos\Edabit Answer - Missing Third Angle\Edabit Answer - Missing Third Angle\obj\Debug\Edabit Answer - Missing Third Angle.csprojAssemblyReference.cache
+C:\Users\Mark\source\repos\Edabit Answer - Missing Third Angle\Edabit Answer - Missing Third Angle\obj\Debug\Edabit Answer - Missing Third Angle.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\Edabit Answer - Missing Third Angle\Edabit Answer - Missing Third Angle\obj\Debug\Edabit Answer - Missing Third Angle.exe
+C:\Users\Mark\source\repos\Edabit Answer - Missing Third Angle\Edabit Answer - Missing Third Angle\obj\Debug\Edabit Answer - Missing Third Angle.pdb
