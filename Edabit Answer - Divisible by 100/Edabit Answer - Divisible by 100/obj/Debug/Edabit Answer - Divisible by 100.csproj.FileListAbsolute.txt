@@ -1,0 +1,7 @@
+C:\Users\Mark\source\repos\Edabit Answer - Divisible by 100\Edabit Answer - Divisible by 100\bin\Debug\Edabit Answer - Divisible by 100.exe.config
+C:\Users\Mark\source\repos\Edabit Answer - Divisible by 100\Edabit Answer - Divisible by 100\bin\Debug\Edabit Answer - Divisible by 100.exe
+C:\Users\Mark\source\repos\Edabit Answer - Divisible by 100\Edabit Answer - Divisible by 100\bin\Debug\Edabit Answer - Divisible by 100.pdb
+C:\Users\Mark\source\repos\Edabit Answer - Divisible by 100\Edabit Answer - Divisible by 100\obj\Debug\Edabit Answer - Divisible by 100.csprojAssemblyReference.cache
+C:\Users\Mark\source\repos\Edabit Answer - Divisible by 100\Edabit Answer - Divisible by 100\obj\Debug\Edabit Answer - Divisible by 100.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\Edabit Answer - Divisible by 100\Edabit Answer - Divisible by 100\obj\Debug\Edabit Answer - Divisible by 100.exe
+C:\Users\Mark\source\repos\Edabit Answer - Divisible by 100\Edabit Answer - Divisible by 100\obj\Debug\Edabit Answer - Divisible by 100.pdb
