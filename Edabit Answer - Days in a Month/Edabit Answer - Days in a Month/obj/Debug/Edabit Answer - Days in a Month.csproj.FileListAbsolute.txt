@@ -1,0 +1,7 @@
+C:\Users\Mark\source\repos\Edabit Answer - Days in a Month\Edabit Answer - Days in a Month\bin\Debug\Edabit Answer - Days in a Month.exe.config
+C:\Users\Mark\source\repos\Edabit Answer - Days in a Month\Edabit Answer - Days in a Month\bin\Debug\Edabit Answer - Days in a Month.exe
+C:\Users\Mark\source\repos\Edabit Answer - Days in a Month\Edabit Answer - Days in a Month\bin\Debug\Edabit Answer - Days in a Month.pdb
+C:\Users\Mark\source\repos\Edabit Answer - Days in a Month\Edabit Answer - Days in a Month\obj\Debug\Edabit Answer - Days in a Month.csprojAssemblyReference.cache
+C:\Users\Mark\source\repos\Edabit Answer - Days in a Month\Edabit Answer - Days in a Month\obj\Debug\Edabit Answer - Days in a Month.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\Edabit Answer - Days in a Month\Edabit Answer - Days in a Month\obj\Debug\Edabit Answer - Days in a Month.exe
+C:\Users\Mark\source\repos\Edabit Answer - Days in a Month\Edabit Answer - Days in a Month\obj\Debug\Edabit Answer - Days in a Month.pdb
