@@ -1,0 +1,7 @@
+C:\Users\Mark\source\repos\Edabit Answer - To The Power Of\Edabit Answer - To The Power Of\bin\Debug\Edabit Answer - To The Power Of.exe.config
+C:\Users\Mark\source\repos\Edabit Answer - To The Power Of\Edabit Answer - To The Power Of\bin\Debug\Edabit Answer - To The Power Of.exe
+C:\Users\Mark\source\repos\Edabit Answer - To The Power Of\Edabit Answer - To The Power Of\bin\Debug\Edabit Answer - To The Power Of.pdb
+C:\Users\Mark\source\repos\Edabit Answer - To The Power Of\Edabit Answer - To The Power Of\obj\Debug\Edabit Answer - To The Power Of.csprojAssemblyReference.cache
+C:\Users\Mark\source\repos\Edabit Answer - To The Power Of\Edabit Answer - To The Power Of\obj\Debug\Edabit Answer - To The Power Of.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\Edabit Answer - To The Power Of\Edabit Answer - To The Power Of\obj\Debug\Edabit Answer - To The Power Of.exe
+C:\Users\Mark\source\repos\Edabit Answer - To The Power Of\Edabit Answer - To The Power Of\obj\Debug\Edabit Answer - To The Power Of.pdb
