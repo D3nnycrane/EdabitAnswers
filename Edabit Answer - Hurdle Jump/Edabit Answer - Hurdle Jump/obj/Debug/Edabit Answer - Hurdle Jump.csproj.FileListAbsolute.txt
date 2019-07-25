@@ -1,0 +1,7 @@
+C:\Users\Mark\source\repos\Edabit Answer - Hurdle Jump\Edabit Answer - Hurdle Jump\bin\Debug\Edabit Answer - Hurdle Jump.exe.config
+C:\Users\Mark\source\repos\Edabit Answer - Hurdle Jump\Edabit Answer - Hurdle Jump\bin\Debug\Edabit Answer - Hurdle Jump.exe
+C:\Users\Mark\source\repos\Edabit Answer - Hurdle Jump\Edabit Answer - Hurdle Jump\bin\Debug\Edabit Answer - Hurdle Jump.pdb
+C:\Users\Mark\source\repos\Edabit Answer - Hurdle Jump\Edabit Answer - Hurdle Jump\obj\Debug\Edabit Answer - Hurdle Jump.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\Edabit Answer - Hurdle Jump\Edabit Answer - Hurdle Jump\obj\Debug\Edabit Answer - Hurdle Jump.exe
+C:\Users\Mark\source\repos\Edabit Answer - Hurdle Jump\Edabit Answer - Hurdle Jump\obj\Debug\Edabit Answer - Hurdle Jump.pdb
+C:\Users\Mark\source\repos\Edabit Answer - Hurdle Jump\Edabit Answer - Hurdle Jump\obj\Debug\Edabit Answer - Hurdle Jump.csprojAssemblyReference.cache
