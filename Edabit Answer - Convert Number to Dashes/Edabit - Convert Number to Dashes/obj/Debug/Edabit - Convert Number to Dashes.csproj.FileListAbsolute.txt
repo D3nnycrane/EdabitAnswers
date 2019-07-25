@@ -1,0 +1,7 @@
+C:\Users\Mark\source\repos\Edabit - Convert Number to Dashes\Edabit - Convert Number to Dashes\bin\Debug\Edabit - Convert Number to Dashes.exe.config
+C:\Users\Mark\source\repos\Edabit - Convert Number to Dashes\Edabit - Convert Number to Dashes\bin\Debug\Edabit - Convert Number to Dashes.exe
+C:\Users\Mark\source\repos\Edabit - Convert Number to Dashes\Edabit - Convert Number to Dashes\bin\Debug\Edabit - Convert Number to Dashes.pdb
+C:\Users\Mark\source\repos\Edabit - Convert Number to Dashes\Edabit - Convert Number to Dashes\obj\Debug\Edabit - Convert Number to Dashes.csprojAssemblyReference.cache
+C:\Users\Mark\source\repos\Edabit - Convert Number to Dashes\Edabit - Convert Number to Dashes\obj\Debug\Edabit - Convert Number to Dashes.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\Edabit - Convert Number to Dashes\Edabit - Convert Number to Dashes\obj\Debug\Edabit - Convert Number to Dashes.exe
+C:\Users\Mark\source\repos\Edabit - Convert Number to Dashes\Edabit - Convert Number to Dashes\obj\Debug\Edabit - Convert Number to Dashes.pdb
