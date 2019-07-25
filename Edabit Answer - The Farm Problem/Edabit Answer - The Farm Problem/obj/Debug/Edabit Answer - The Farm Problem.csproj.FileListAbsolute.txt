@@ -1,0 +1,7 @@
+C:\Users\Mark\source\repos\Edabit Answer - The Farm Problem\Edabit Answer - The Farm Problem\bin\Debug\Edabit Answer - The Farm Problem.exe.config
+C:\Users\Mark\source\repos\Edabit Answer - The Farm Problem\Edabit Answer - The Farm Problem\bin\Debug\Edabit Answer - The Farm Problem.exe
+C:\Users\Mark\source\repos\Edabit Answer - The Farm Problem\Edabit Answer - The Farm Problem\bin\Debug\Edabit Answer - The Farm Problem.pdb
+C:\Users\Mark\source\repos\Edabit Answer - The Farm Problem\Edabit Answer - The Farm Problem\obj\Debug\Edabit Answer - The Farm Problem.csprojAssemblyReference.cache
+C:\Users\Mark\source\repos\Edabit Answer - The Farm Problem\Edabit Answer - The Farm Problem\obj\Debug\Edabit Answer - The Farm Problem.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\Edabit Answer - The Farm Problem\Edabit Answer - The Farm Problem\obj\Debug\Edabit Answer - The Farm Problem.exe
+C:\Users\Mark\source\repos\Edabit Answer - The Farm Problem\Edabit Answer - The Farm Problem\obj\Debug\Edabit Answer - The Farm Problem.pdb
