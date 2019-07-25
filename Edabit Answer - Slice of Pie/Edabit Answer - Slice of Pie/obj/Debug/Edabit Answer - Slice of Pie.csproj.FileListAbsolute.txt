@@ -1,0 +1,7 @@
+C:\Users\Mark\source\repos\Edabit Answer - Slice of Pie\Edabit Answer - Slice of Pie\bin\Debug\Edabit Answer - Slice of Pie.exe.config
+C:\Users\Mark\source\repos\Edabit Answer - Slice of Pie\Edabit Answer - Slice of Pie\bin\Debug\Edabit Answer - Slice of Pie.exe
+C:\Users\Mark\source\repos\Edabit Answer - Slice of Pie\Edabit Answer - Slice of Pie\bin\Debug\Edabit Answer - Slice of Pie.pdb
+C:\Users\Mark\source\repos\Edabit Answer - Slice of Pie\Edabit Answer - Slice of Pie\obj\Debug\Edabit Answer - Slice of Pie.csprojAssemblyReference.cache
+C:\Users\Mark\source\repos\Edabit Answer - Slice of Pie\Edabit Answer - Slice of Pie\obj\Debug\Edabit Answer - Slice of Pie.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\Edabit Answer - Slice of Pie\Edabit Answer - Slice of Pie\obj\Debug\Edabit Answer - Slice of Pie.exe
+C:\Users\Mark\source\repos\Edabit Answer - Slice of Pie\Edabit Answer - Slice of Pie\obj\Debug\Edabit Answer - Slice of Pie.pdb
