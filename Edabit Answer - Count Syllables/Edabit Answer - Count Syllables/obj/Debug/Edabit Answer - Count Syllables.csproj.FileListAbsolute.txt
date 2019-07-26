@@ -1,0 +1,7 @@
+C:\Users\Mark\source\repos\Edabit Answer - Count Syllables\Edabit Answer - Count Syllables\bin\Debug\Edabit Answer - Count Syllables.exe.config
+C:\Users\Mark\source\repos\Edabit Answer - Count Syllables\Edabit Answer - Count Syllables\bin\Debug\Edabit Answer - Count Syllables.exe
+C:\Users\Mark\source\repos\Edabit Answer - Count Syllables\Edabit Answer - Count Syllables\bin\Debug\Edabit Answer - Count Syllables.pdb
+C:\Users\Mark\source\repos\Edabit Answer - Count Syllables\Edabit Answer - Count Syllables\obj\Debug\Edabit Answer - Count Syllables.csprojAssemblyReference.cache
+C:\Users\Mark\source\repos\Edabit Answer - Count Syllables\Edabit Answer - Count Syllables\obj\Debug\Edabit Answer - Count Syllables.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\Edabit Answer - Count Syllables\Edabit Answer - Count Syllables\obj\Debug\Edabit Answer - Count Syllables.exe
+C:\Users\Mark\source\repos\Edabit Answer - Count Syllables\Edabit Answer - Count Syllables\obj\Debug\Edabit Answer - Count Syllables.pdb
