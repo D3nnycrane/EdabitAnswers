@@ -1,0 +1,6 @@
+C:\Users\Mark\source\repos\Edabit Answers - Hacker Speak\Edabit Answers - Hacker Speak\bin\Debug\Edabit Answers - Hacker Speak.exe.config
+C:\Users\Mark\source\repos\Edabit Answers - Hacker Speak\Edabit Answers - Hacker Speak\bin\Debug\Edabit Answers - Hacker Speak.exe
+C:\Users\Mark\source\repos\Edabit Answers - Hacker Speak\Edabit Answers - Hacker Speak\bin\Debug\Edabit Answers - Hacker Speak.pdb
+C:\Users\Mark\source\repos\Edabit Answers - Hacker Speak\Edabit Answers - Hacker Speak\obj\Debug\Edabit Answers - Hacker Speak.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\Edabit Answers - Hacker Speak\Edabit Answers - Hacker Speak\obj\Debug\Edabit Answers - Hacker Speak.exe
+C:\Users\Mark\source\repos\Edabit Answers - Hacker Speak\Edabit Answers - Hacker Speak\obj\Debug\Edabit Answers - Hacker Speak.pdb
