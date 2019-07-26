@@ -1,0 +1,7 @@
+C:\Users\Mark\source\repos\Edabit Answer - Return the Factorial\Edabit Answer - Return the Factorial\bin\Debug\Edabit Answer - Return the Factorial.exe.config
+C:\Users\Mark\source\repos\Edabit Answer - Return the Factorial\Edabit Answer - Return the Factorial\bin\Debug\Edabit Answer - Return the Factorial.exe
+C:\Users\Mark\source\repos\Edabit Answer - Return the Factorial\Edabit Answer - Return the Factorial\bin\Debug\Edabit Answer - Return the Factorial.pdb
+C:\Users\Mark\source\repos\Edabit Answer - Return the Factorial\Edabit Answer - Return the Factorial\obj\Debug\Edabit Answer - Return the Factorial.csprojAssemblyReference.cache
+C:\Users\Mark\source\repos\Edabit Answer - Return the Factorial\Edabit Answer - Return the Factorial\obj\Debug\Edabit Answer - Return the Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\Edabit Answer - Return the Factorial\Edabit Answer - Return the Factorial\obj\Debug\Edabit Answer - Return the Factorial.exe
+C:\Users\Mark\source\repos\Edabit Answer - Return the Factorial\Edabit Answer - Return the Factorial\obj\Debug\Edabit Answer - Return the Factorial.pdb
