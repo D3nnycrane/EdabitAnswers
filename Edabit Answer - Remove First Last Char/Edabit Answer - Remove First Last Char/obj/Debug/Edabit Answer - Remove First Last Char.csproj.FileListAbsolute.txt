@@ -1,0 +1,7 @@
+C:\Users\Mark\source\repos\Edabit Answer - Remove First Last Char\Edabit Answer - Remove First Last Char\bin\Debug\Edabit Answer - Remove First Last Char.exe.config
+C:\Users\Mark\source\repos\Edabit Answer - Remove First Last Char\Edabit Answer - Remove First Last Char\bin\Debug\Edabit Answer - Remove First Last Char.exe
+C:\Users\Mark\source\repos\Edabit Answer - Remove First Last Char\Edabit Answer - Remove First Last Char\bin\Debug\Edabit Answer - Remove First Last Char.pdb
+C:\Users\Mark\source\repos\Edabit Answer - Remove First Last Char\Edabit Answer - Remove First Last Char\obj\Debug\Edabit Answer - Remove First Last Char.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\Edabit Answer - Remove First Last Char\Edabit Answer - Remove First Last Char\obj\Debug\Edabit Answer - Remove First Last Char.exe
+C:\Users\Mark\source\repos\Edabit Answer - Remove First Last Char\Edabit Answer - Remove First Last Char\obj\Debug\Edabit Answer - Remove First Last Char.pdb
+C:\Users\Mark\source\repos\Edabit Answer - Remove First Last Char\Edabit Answer - Remove First Last Char\obj\Debug\Edabit Answer - Remove First Last Char.csprojAssemblyReference.cache
