@@ -1,0 +1,6 @@
+C:\Users\Mark\source\repos\Edabit Answer - Smaller String Number\Edabit Answer - Smaller String Number\bin\Debug\Edabit Answer - Smaller String Number.exe.config
+C:\Users\Mark\source\repos\Edabit Answer - Smaller String Number\Edabit Answer - Smaller String Number\bin\Debug\Edabit Answer - Smaller String Number.exe
+C:\Users\Mark\source\repos\Edabit Answer - Smaller String Number\Edabit Answer - Smaller String Number\bin\Debug\Edabit Answer - Smaller String Number.pdb
+C:\Users\Mark\source\repos\Edabit Answer - Smaller String Number\Edabit Answer - Smaller String Number\obj\Debug\Edabit Answer - Smaller String Number.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\Edabit Answer - Smaller String Number\Edabit Answer - Smaller String Number\obj\Debug\Edabit Answer - Smaller String Number.exe
+C:\Users\Mark\source\repos\Edabit Answer - Smaller String Number\Edabit Answer - Smaller String Number\obj\Debug\Edabit Answer - Smaller String Number.pdb
