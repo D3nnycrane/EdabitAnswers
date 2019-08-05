@@ -1,0 +1,6 @@
+C:\Users\Mark\source\repos\Edabit Answer - Integer Divisible by 5\Edabit Answer - Integer Divisible by 5\bin\Debug\Edabit Answer - Integer Divisible by 5.exe.config
+C:\Users\Mark\source\repos\Edabit Answer - Integer Divisible by 5\Edabit Answer - Integer Divisible by 5\bin\Debug\Edabit Answer - Integer Divisible by 5.exe
+C:\Users\Mark\source\repos\Edabit Answer - Integer Divisible by 5\Edabit Answer - Integer Divisible by 5\bin\Debug\Edabit Answer - Integer Divisible by 5.pdb
+C:\Users\Mark\source\repos\Edabit Answer - Integer Divisible by 5\Edabit Answer - Integer Divisible by 5\obj\Debug\Edabit Answer - Integer Divisible by 5.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\Edabit Answer - Integer Divisible by 5\Edabit Answer - Integer Divisible by 5\obj\Debug\Edabit Answer - Integer Divisible by 5.exe
+C:\Users\Mark\source\repos\Edabit Answer - Integer Divisible by 5\Edabit Answer - Integer Divisible by 5\obj\Debug\Edabit Answer - Integer Divisible by 5.pdb
