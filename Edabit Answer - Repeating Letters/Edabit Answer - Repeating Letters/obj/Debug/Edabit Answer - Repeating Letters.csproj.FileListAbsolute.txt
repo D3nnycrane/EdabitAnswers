@@ -1,0 +1,7 @@
+C:\Users\Mark\source\repos\Edabit Answer - Repeating Letters\Edabit Answer - Repeating Letters\bin\Debug\Edabit Answer - Repeating Letters.exe.config
+C:\Users\Mark\source\repos\Edabit Answer - Repeating Letters\Edabit Answer - Repeating Letters\bin\Debug\Edabit Answer - Repeating Letters.exe
+C:\Users\Mark\source\repos\Edabit Answer - Repeating Letters\Edabit Answer - Repeating Letters\bin\Debug\Edabit Answer - Repeating Letters.pdb
+C:\Users\Mark\source\repos\Edabit Answer - Repeating Letters\Edabit Answer - Repeating Letters\obj\Debug\Edabit Answer - Repeating Letters.csprojAssemblyReference.cache
+C:\Users\Mark\source\repos\Edabit Answer - Repeating Letters\Edabit Answer - Repeating Letters\obj\Debug\Edabit Answer - Repeating Letters.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\Edabit Answer - Repeating Letters\Edabit Answer - Repeating Letters\obj\Debug\Edabit Answer - Repeating Letters.exe
+C:\Users\Mark\source\repos\Edabit Answer - Repeating Letters\Edabit Answer - Repeating Letters\obj\Debug\Edabit Answer - Repeating Letters.pdb
