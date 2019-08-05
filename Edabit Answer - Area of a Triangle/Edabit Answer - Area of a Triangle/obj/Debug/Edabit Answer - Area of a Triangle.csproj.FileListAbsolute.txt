@@ -1,0 +1,7 @@
+C:\Users\Mark\source\repos\Edabit Answer - Area of a Triangle\Edabit Answer - Area of a Triangle\bin\Debug\Edabit Answer - Area of a Triangle.exe.config
+C:\Users\Mark\source\repos\Edabit Answer - Area of a Triangle\Edabit Answer - Area of a Triangle\bin\Debug\Edabit Answer - Area of a Triangle.exe
+C:\Users\Mark\source\repos\Edabit Answer - Area of a Triangle\Edabit Answer - Area of a Triangle\bin\Debug\Edabit Answer - Area of a Triangle.pdb
+C:\Users\Mark\source\repos\Edabit Answer - Area of a Triangle\Edabit Answer - Area of a Triangle\obj\Debug\Edabit Answer - Area of a Triangle.csprojAssemblyReference.cache
+C:\Users\Mark\source\repos\Edabit Answer - Area of a Triangle\Edabit Answer - Area of a Triangle\obj\Debug\Edabit Answer - Area of a Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\Edabit Answer - Area of a Triangle\Edabit Answer - Area of a Triangle\obj\Debug\Edabit Answer - Area of a Triangle.exe
+C:\Users\Mark\source\repos\Edabit Answer - Area of a Triangle\Edabit Answer - Area of a Triangle\obj\Debug\Edabit Answer - Area of a Triangle.pdb
